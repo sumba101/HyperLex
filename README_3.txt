@@ -1,0 +1,3 @@
+average:('earlier', 'share', 'earned'),('simple', 'compound', 'seven-day'),('monitor', 'annualized', 'aptitude'),('work', 'jumped', 'rushed'),('make', 'refunds', 'electric'),('observed', 'followed', 'lot'),('top', 'interbank', 'rates'),('volume', 'moderate', 'discount')
+prices:('hold', 'bargains', 'friday'),('reason', 'unlike', 'financial'),('guffey', 'exchange', 'news'),('consumers', 'country', 'cult'),('biscayne', 'denied', 'unfair'),('coal', 'costs', 'compensate'),('long-term', 'moderate', 'prospects'),('charged', 'modestly', 'return')
+proposed:('swap', 'tumbled', 'paying'),('fact', 'ps', 'club'),('airline', 'total', 'several'),('facility', 'penalties', 'single')
